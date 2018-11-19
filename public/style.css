@@ -1,7 +1,38 @@
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background-color: #00724a;
 }
 img{
   height: 200px;
+}
+h1{
+  color: green;
+}
+h3{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin:0 0 10px 0;
+}
+.order{
+  font-size: 2em;
+}
+
+.complete{
+  color: green;
+}
+h4{
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+}
+
+.compOrd{
+  font-size: 1.4em;
+}
+
+.barista{
+  color: black;
 }

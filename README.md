@@ -13,7 +13,7 @@
 Modified from Scotch.io's auth tutorial
 
 
-![alt text](../public/img/sb.jpg)
+![alt tag](/public/img/sb.jpg)
 
 Tech used: HTML, CSS, JavaScript, Node.js, Mongodb, Express, Passport
 
